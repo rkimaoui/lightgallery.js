@@ -1,6 +1,6 @@
 {
   "name": "lightgallery.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Full featured lightbox gallery. Zero dependencies",
   "main": [
       "dist/js/lightgallery.min.js",
@@ -22,7 +22,9 @@
       "vimeo"
   ],
   "authors": [
-      "Sachin N <sachi77n@gmail.com>"
+      "Sachin N <sachi77n@gmail.com>",
+     "Reda Kimaoui <reda.kimaoui@gmail.com>",
+    
   ],
   "homepage": "http://sachinchoolur.github.io/lightgallery.js/",
   "repository": {
